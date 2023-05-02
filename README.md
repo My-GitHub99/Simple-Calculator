@@ -9,4 +9,4 @@ Developed an embedded application for a simple calculator that performs single o
 
 # Simulation
 
-https://user-images.githubusercontent.com/121635850/235688072-524ed4ac-c804-45e5-b645-33886dd6c08d.mp4
+https://user-images.githubusercontent.com/121635850/235689072-7bf2f4d0-24f6-4628-9f85-e3a7c677d277.mp4
